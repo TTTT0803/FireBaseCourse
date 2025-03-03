@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "85800242923",
+    "firebase_url": "https://fir-course-51ec0-default-rtdb.firebaseio.com",
+    "project_id": "fir-course-51ec0",
+    "storage_bucket": "fir-course-51ec0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85800242923:android:8e9f6e837cdf392f9578ae",
+        "android_client_info": {
+          "package_name": "com.example.firebasecourse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3vyGdwC7s587oIm8MiEiDdCp_8HQ5Rr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
